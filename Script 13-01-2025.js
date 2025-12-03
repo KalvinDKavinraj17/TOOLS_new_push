@@ -12,7 +12,7 @@ console.log(obj.name)
 console.log(obj.exp);
 console.log(obj.dep);
 
-//My name is billa
+//My name is ambika
 
 //Updating values in an Object
 obj.name ="sakthi"
