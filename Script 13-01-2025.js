@@ -12,6 +12,8 @@ console.log(obj.name)
 console.log(obj.exp);
 console.log(obj.dep);
 
+//My name is billa
+
 //Updating values in an Object
 obj.name ="sakthi"
 obj.dep = 'Non-IT'
